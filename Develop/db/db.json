@@ -1,0 +1,17 @@
+[
+    {
+        "title":"Welcome",
+        "text":"Write, Save and Delete Notes",
+        "id": 1
+    }
+    {
+        "title": "New Notes",
+        "text": "",
+        "id": 2
+    }
+    {
+        "title": "New Notes",
+        "text": "",
+        "id": 3
+    }
+]
